@@ -13,6 +13,7 @@
 * Diamantaras, K. I., Salampasis, M., Katsalis, A., & **Christantonis, K.** (2021). Predicting Shopping Intent of e-Commerce Users using LSTM Recurrent Neural Networks. In DATA (pp. 252-259).
 * Bastas, G., Kaliakatsos-Papakostas, M., Paraskevopoulos, G., Kaplanoglou, P., **Christantonis, K.**, Tsioustas, C., ... & Maragos, P. (2022, June). Towards a DHH Accessible Theater: Real-Time Synchronization of Subtitles and Sign Language Videos with ASR and NLP Solutions. In Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments (pp. 653-661).
 * Katsalis, A., **Christantonis, K.**, Tsioustas, C., Kaplanoglou, P. I., Kaliakatsos-Papakostas, M., Katsamanis, A., ... & Loupi, D. (2023). NLP-Theatre: Employing Speech Recognition Technologies for Improving Accessibility and Augmenting the Theatrical Experience. In Proceedings of SAI Intelligent Systems Conference (pp. 507-526). Springer, Cham.
+* Salampasis, M.; Katsalis, A.; Siomos, T.; Delianidi, M.; Tektonidis, D.; **Christantonis, K.**; Kaplanoglou, P.; Karaveli, I.; Bourlis, C.; Diamantaras, K. A Flexible Session-Based Recommender System for e-Commerce. Appl. Sci. 2023, 13, 3347.
 
 <!---
 konschri/konschri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
